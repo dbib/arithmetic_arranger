@@ -193,6 +193,8 @@ def arithmetic_arranger(problems):
 
     render = render + bars_render
 
+    # Adding the second parameter checker, if it's True we display solutions and if it's False we hide solutions
+
     print(render)
 
 
